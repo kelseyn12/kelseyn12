@@ -1,5 +1,4 @@
-### Hi there!
-
+https://github.com/kelseyn12/kelseyn12/blob/master/header.png?raw=true
 <!--
 **kelseyn12/kelseyn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
