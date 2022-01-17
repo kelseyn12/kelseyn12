@@ -1,5 +1,5 @@
 ### Hi there!
-I'm a developer in training and I like creating beautiful things, laughing, and being outside.🌱
+
 <!--
 **kelseyn12/kelseyn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
