@@ -1,7 +1,9 @@
 <header>
 <img src = "https://github.com/kelseyn12/kelseyn12/blob/master/header.png?raw=true">
   </header>
- ![linkedin-logo](https://user-images.githubusercontent.com/94858532/149819522-2f2969a8-97df-4cd8-8518-96af1fa3a6fb.png)[1]
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[LinkedIn].svg" />
+
 
  <!--
 **kelseyn12/kelseyn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
