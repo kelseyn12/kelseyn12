@@ -12,7 +12,7 @@
 - 😄 2022 goals: Become more fluent in algorithm problem solving
 - ⚡ Fun fact: I love to play music and be outside
 
-#Connect with me!
+##Connect with me!
 
 
 
