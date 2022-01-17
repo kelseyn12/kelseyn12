@@ -12,11 +12,12 @@
 - ⚡ Fun fact: I love to play music and be outside
 
 ##Connect with me!##
-[linkedIn](https://github.com/kelseyn12/kelseyn12/files/7884099/linkedin.1.pdf)
 
 
 
 
 
 
-[linkedIn]: https://www.linkedin.com/in/kelseynocek12/
+
+[[linkedin (1).pdf](https://github.com/kelseyn12/kelseyn12/files/7884120/linkedin.1.pdf)
+]: https://www.linkedin.com/in/kelseynocek12/
