@@ -12,4 +12,4 @@
 - ⚡ Fun fact: I love to play music and be outside
 
 **Connect with me!**
-<a href="https://www.linkedin.com/in/kelseynocek12/"><img src="https://github.com/kelseyn12/kelseyn12/files/7884171/linkedin.1.pdf" align="left" height="48" width="48" ></a>
+<a href="https://www.linkedin.com/in/kelseynocek12/"><img src="https://user-images.githubusercontent.com/94858532/149824930-143d9aae-5eb8-4c1d-903b-319d0d589e22.png" align="left" height="48" width="48" ></a>
