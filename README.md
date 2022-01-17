@@ -1,8 +1,8 @@
 <header>
 <img src = "https://github.com/kelseyn12/kelseyn12/blob/master/header.png?raw=true">
   </header>
- <h2> Connect with me! </h2>
-[![github](https://github.com/kelseyn12/kelseyn12/files/7883894/linkedin.pdf)][1]
+ ![linkedin-logo](https://user-images.githubusercontent.com/94858532/149819522-2f2969a8-97df-4cd8-8518-96af1fa3a6fb.png)[1]
+
  <!--
 **kelseyn12/kelseyn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
