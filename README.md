@@ -2,7 +2,7 @@
 <img src = "https://github.com/kelseyn12/kelseyn12/blob/master/header.png?raw=true">
   </header>
  <h2> Connect with me! </h2>
-https://github.com/kelseyn12/kelseyn12/files/7883894/linkedin.pdf
+<img src = "https://github.com/kelseyn12/kelseyn12/files/7883894/linkedin.pdf">
  <!--
 **kelseyn12/kelseyn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
