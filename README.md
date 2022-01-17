@@ -2,7 +2,6 @@
 <img src = "https://github.com/kelseyn12/kelseyn12/blob/master/header.png?raw=true">
   </header>
 
-[<i class="fab fa-linkedin"></i>][linkedIn]
 
 
 
@@ -13,7 +12,7 @@
 - ⚡ Fun fact: I love to play music and be outside
 
 ##Connect with me!##
-[linkedin (1).pdf](https://github.com/kelseyn12/kelseyn12/files/7884099/linkedin.1.pdf)[linkedIn]
+[linkedIn](https://github.com/kelseyn12/kelseyn12/files/7884099/linkedin.1.pdf)
 
 
 
