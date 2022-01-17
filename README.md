@@ -11,7 +11,7 @@
 - 😄 2022 goals: Become more fluent in algorithm problem solving
 - ⚡ Fun fact: I love to play music and be outside
 
-##Connect with me!##
-[img align= "left" alt= "linkedIn" width="26px"![linkedin-logo](https://user-images.githubusercontent.com/94858532/149823471-2754f1f5-ec65-49c5-b563-9ce0b10cf6a1.png)]
+**Connect with me!**
+<![linkedin-logo](https://user-images.githubusercontent.com/94858532/149823471-2754f1f5-ec65-49c5-b563-9ce0b10cf6a1.png) width="400" height = "400">
 
 [linkedin-logo]: https://www.linkedin.com/in/kelseynocek12/
