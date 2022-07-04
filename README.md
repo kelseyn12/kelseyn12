@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on developing my skills
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning Gatsby
 - 👯 I’m looking to collaborate with other content creators
 - 😄 2022 goals: Become more fluent in algorithm problem solving
 - ⚡ Fun fact: I love to play music and be outside
