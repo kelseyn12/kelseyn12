@@ -6,9 +6,9 @@
 
 
 - 🔭 I’m currently working on developing my skills
-- 🌱 I’m currently learning Gatsby
+- 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate with other content creators
-- 😄 2022 goals: Become more fluent in algorithm problem solving
+- 😄 2023 goals: Keep learning!
 - ⚡ Fun fact: I love to play music and be outside
 
 **Languages|Frameworks|Platforms**
