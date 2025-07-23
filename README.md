@@ -6,9 +6,9 @@
 
 
 - 🔭 I’m currently working on developing my skills
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate with other content creators
-- 😄 2023 goals: Keep learning!
+- 😄 2025 goals: Keep learning!
 - ⚡ Fun fact: I love to play music and be outside
 
 **Languages|Frameworks|Platforms**
